@@ -20,10 +20,13 @@ brain-calc:
 	poetry run brain-calc
 
 brain-gcd:
-        poetry run brain-gcd
+	poetry run brain-gcd
 
 brain-progression:
 	poetry run brain-progression
 
+brain-prime:
+	poetry run brain-prime
+
 make lint:
-	poetry run flake8 brain_games
+	poetry run flake8 brain_prime.py
