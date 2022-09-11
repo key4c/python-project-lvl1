@@ -3,6 +3,7 @@ from random import randint, choice
 
 GUIDE = 'What number is missing in the progression?'
 
+
 def generate_round():
     increment = randint(2, 10)
     start_number = randint(1, 10)
@@ -20,4 +21,3 @@ def generate_round():
     question = ' '.join(map(str, question))
 
     return question, str(correct_answer)
-
