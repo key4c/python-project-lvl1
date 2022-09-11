@@ -17,6 +17,7 @@ def generate_round():
     correct_answer = choice(question)
     index_correct_answer = question.index(correct_answer)
     question[index_correct_answer] = '..'
+    question = ' '.join(map(str, question))
 
     return question, str(correct_answer)
 
