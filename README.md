@@ -19,17 +19,24 @@ ________________________________________________________________________________
 
 ## Hexlet tests and linter status:
 [![Actions Status](https://github.com/key4c/python-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/key4c/python-project-lvl1/actions)
+[![Maintainability](https://api.codeclimate.com/v1/badges/ae6ca975e353dd84ff67/maintainability)](https://codeclimate.com/github/key4c/python-project-lvl1/maintainability)
 
-## asciinema
+### asciinema
 
-### brain-games [![asciicast](https://asciinema.org/a/hgnXya4Q4Hpu38AlTuChjGbfU.svg)](https://asciinema.org/a/hgnXya4Q4Hpu38AlTuChjGbfU)
+#### brain-games
+[![asciicast](https://asciinema.org/a/hgnXya4Q4Hpu38AlTuChjGbfU.svg)](https://asciinema.org/a/hgnXya4Q4Hpu38AlTuChjGbfU)
 
-### brain-even [![asciicast](https://asciinema.org/a/RIQvchNfm1tOwOvtTJAhm8VnM.svg)](https://asciinema.org/a/RIQvchNfm1tOwOvtTJAhm8VnM)
+#### brain-even
+[![asciicast](https://asciinema.org/a/RIQvchNfm1tOwOvtTJAhm8VnM.svg)](https://asciinema.org/a/RIQvchNfm1tOwOvtTJAhm8VnM)
 
-### brain-calc [![asciicast](https://asciinema.org/a/JJDlCajJxtMhmIt75WXN1eGL1.svg)](https://asciinema.org/a/JJDlCajJxtMhmIt75WXN1eGL1)
+#### brain-calc
+[![asciicast](https://asciinema.org/a/JJDlCajJxtMhmIt75WXN1eGL1.svg)](https://asciinema.org/a/JJDlCajJxtMhmIt75WXN1eGL1)
 
-### brain-gcd [![asciicast](https://asciinema.org/a/MNdPm3WqMILH25k62q5uCIjYp.svg)](https://asciinema.org/a/MNdPm3WqMILH25k62q5uCIjYp)
+#### brain-gcd
+[![asciicast](https://asciinema.org/a/MNdPm3WqMILH25k62q5uCIjYp.svg)](https://asciinema.org/a/MNdPm3WqMILH25k62q5uCIjYp)
 
-### brain-progression [![asciicast](https://asciinema.org/a/qn0nRaI8qJNe8MOSgqHs0LHPY.svg)](https://asciinema.org/a/qn0nRaI8qJNe8MOSgqHs0LHPY)
+#### brain-progression
+[![asciicast](https://asciinema.org/a/qn0nRaI8qJNe8MOSgqHs0LHPY.svg)](https://asciinema.org/a/qn0nRaI8qJNe8MOSgqHs0LHPY)
 
-### brain-prime [![asciicast](https://asciinema.org/a/mNqkfkzWaInLfGPeoerMtPM2B.svg)](https://asciinema.org/a/mNqkfkzWaInLfGPeoerMtPM2B)
+#### brain-prime
+[![asciicast](https://asciinema.org/a/mNqkfkzWaInLfGPeoerMtPM2B.svg)](https://asciinema.org/a/mNqkfkzWaInLfGPeoerMtPM2B)
