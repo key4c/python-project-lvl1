@@ -1,8 +1,13 @@
-# Brain games
+#This repository is made by Vladimir Klyucharov, as an educational project. 
 
-This repository is made by Vladimir Klyucharov, as an educational project. 
-It contains a project called "Brain games" which includes five mathematical textual games that can push your mind to the limits beyond your imagination ;) (No!). 
-I hope, you will find it useful or, at least, fun!
+##Description
+"Brain Games" is a set of five console games based on the popular mobile brain-pumping apps. 
+Each game asks questions that need to be answered correctly. 
+After three correct answers the game is considered completed. 
+Incorrect answers end the game and prompt you to play it again.
+Use following commands for installing:
+
+I hope, you'll have  fun!
 
 ## Requirements
 Python 3.9.5 or above
@@ -10,11 +15,9 @@ Python 3.9.5 or above
 ## Installation
 Use following commands for installing:
 
-	poetry install
-	poetry build
-	poetry publish
-	python3 -m pip install dist/*.whl
-
+Clone the repository to your computer ª§git clone https://github.com/key4c/python-project-lvl1.gitª§
+Go to the project folder ª§cd python-project-lvl1ª§
+Install the game package ª§make setupª§
 _________________________________________________________________________________________________________________________________________
 
 ## Hexlet tests and linter status:
