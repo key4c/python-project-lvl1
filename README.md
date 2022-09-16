@@ -15,9 +15,9 @@ Python 3.9.5 or above
 ## Installation
 Use following commands for installing:
 
-Clone the repository to your computer 'git clone https://github.com/key4c/python-project-lvl1.git'
-Go to the project folder 'cd python-project-lvl1'
-Install the game package 'make setup'
+Clone the repository to your computer `git clone https://github.com/key4c/python-project-lvl1.git`
+Go to the project folder `cd python-project-lvl1`
+Install the game package `make setup`
 _________________________________________________________________________________________________________________________________________
 
 ## Hexlet tests and linter status:
