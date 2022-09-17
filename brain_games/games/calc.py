@@ -5,10 +5,10 @@ from random import choice
 GUIDE = 'What is the result of the expression?'
 
 
-first_operator = randint(1, 50)
-second_operand = randint(1, 50)
 def generate_round():
     operators = ['+', '-', '*']
+    first_operator = randint(1, 50)
+    second_operand = randint(1, 50)
     random_operator = choice(operators)
     if random_operator == '+':
         correct_answer = first_operand + second_operand
