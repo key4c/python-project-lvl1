@@ -7,7 +7,7 @@ GUIDE = 'What is the result of the expression?'
 
 def generate_round():
     operators = ['+', '-', '*']
-    first_operator = randint(1, 50)
+    first_operand = randint(1, 50)
     second_operand = randint(1, 50)
     random_operator = choice(operators)
     if random_operator == '+':
