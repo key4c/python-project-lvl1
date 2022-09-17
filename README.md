@@ -1,13 +1,12 @@
-#This repository is made by Vladimir Klyucharov, as an educational project. 
+####*This repository is made by Vladimir Klyucharov, as an educational project.
+___
 
 ##Description
-"Brain Games" is a set of five console games based on the popular mobile brain-pumping apps. 
-Each game asks questions that need to be answered correctly. 
-After three correct answers the game is considered completed. 
+*"Brain Games" is a set of five console games based on the popular mobile brain-pumping apps.
+Each game asks questions that need to be answered correctly.
+After three correct answers the game is considered completed.
 Incorrect answers end the game and prompt you to play it again.
-Use following commands for installing:
-
-I hope, you'll have  fun!
+I hope, you'll have  fun!*
 
 ## Requirements
 Python 3.9.5 or above
@@ -15,10 +14,11 @@ Python 3.9.5 or above
 ## Installation
 Use following commands for installing:
 
-Clone the repository to your computer `git clone https://github.com/key4c/python-project-lvl1.git`
-Go to the project folder `cd python-project-lvl1`
-Install the game package `make setup`
-_________________________________________________________________________________________________________________________________________
+1. Clone the repository to your computer `git clone https://github.com/key4c/python-project-lvl1.git`
+2. Go to the project folder `cd python-project-lvl1`
+3. Install the game package `make setup`
+
+***
 
 ## Hexlet tests and linter status:
 [![Actions Status](https://github.com/key4c/python-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/key4c/python-project-lvl1/actions)
