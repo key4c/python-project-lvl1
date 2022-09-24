@@ -2,15 +2,18 @@ from random import randint, choice
 
 
 GUIDE = 'What number is missing in the progression?'
-
+INCREMENT_START_NUMBER = 2
+INCREMENT_STOP_NUMBER = 10
+START_NUMBER = 1
+STOP_NUMBER = 100
 
 def generate_round():
-    increment = randint(2, 10)
-    start_number = randint(1, 10)
+    increment = randint(INCREMENT_START_NUMBER, INCREMENT_STOP_NUMBER)
+    first_number = randint(START_NUMBER, STOP_NUMBER)
 
-    question = [start_number]
+    question = [first_number]
     i = 0
-    num = start_number
+    num = first_number
     while i < 10:
         num += increment
         question.append(num)
