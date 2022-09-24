@@ -2,10 +2,9 @@ from random import randint, choice
 
 
 GUIDE = 'What number is missing in the progression?'
-INCREMENT_START_NUMBER = 2
-INCREMENT_STOP_NUMBER = 10
-START_NUMBER = 1
-STOP_NUMBER = 100
+INCREMENT_START_NUMBER, INCREMENT_STOP_NUMBER = 2, 10
+START_NUMBER, STOP_NUMBER = 1, 100
+
 
 def generate_round():
     increment = randint(INCREMENT_START_NUMBER, INCREMENT_STOP_NUMBER)

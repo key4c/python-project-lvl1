@@ -3,13 +3,13 @@ from random import choice
 
 
 GUIDE = 'What is the result of the expression?'
-START_NAMBER = 1
-STOP_NAMBER = 100
+START_NUMBER = 1
+STOP_NUMBER = 100
 
 def generate_round():
     operators = ['+', '-', '*']
-    first_operand = randint(START_NAMBER, STOP_NAMBER)
-    second_operand = randint(START_NAMBER, STOP_NAMBER)
+    first_operand = randint(START_NUMBER, STOP_NUMBER)
+    second_operand = randint(START_NUMBER, STOP_NUMBER)
     random_operator = choice(operators)
     if random_operator == '+':
         correct_answer = first_operand + second_operand
