@@ -1,4 +1,4 @@
-####*This repository is made by Vladimir Klyucharov, as an educational project.
+####This repository is made by Vladimir Klyucharov, as an educational project.
 ___
 
 ##Description
