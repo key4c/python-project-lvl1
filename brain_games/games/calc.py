@@ -6,6 +6,7 @@ GUIDE = 'What is the result of the expression?'
 START_NUMBER = 1
 STOP_NUMBER = 100
 
+
 def generate_round():
     operators = ['+', '-', '*']
     first_operand = randint(START_NUMBER, STOP_NUMBER)
